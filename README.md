@@ -8,7 +8,7 @@ An interactive **Tableau Public dashboard** analyzing Netflix Movies and TV Show
 across **time, geography, genre, rating, and content type**.
 
 🔗 **Live Dashboard (Tableau Public)**  
-👉 https://public.tableau.com/app/profile/ruyigai/viz/NetflixdataanalysismoviesTVshows/Dashboard1
+👉 https://public.tableau.com/app/profile/ruyigai/viz/NetflixdataanalysismoviesTVshows/Dashboard
 
 ---
 
