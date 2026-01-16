@@ -125,7 +125,7 @@ The dataset is included in this repository for transparency and reproducibility.
 
 ## 🛠️ Tools & Skills
 
-- Tableau Public
+- Tableau Desktop / Tableau Public
 - Dashboard design & interactive filtering
 - Calculated fields
 - Exploratory Data Analysis (EDA)
